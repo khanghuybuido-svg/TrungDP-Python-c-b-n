@@ -1,2 +1,2 @@
-# TrungDP-Python-c-b-n
+# Huy-Python cơ bản
 huy
